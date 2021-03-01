@@ -10,6 +10,6 @@ Progress:
 - makes me think of the Datamations presentation from C+J, more info [here](https://xiaoyingpu.github.io/files/pu2021datamation.pdf)
 - play around with package, understand constraints of system, what can I build off of? what will I have to do myself?
 - start with the [datamation_sanddance](https://github.com/seankross/datamations/blob/main/R/datamation_sanddance.R) function but realize working in a table format would be easier and more in line with what I really need anyway ([datamation_tibble](https://github.com/seankross/datamations/blob/main/R/datamation_tibble.R))
-- scratch work in R
-- sketches
+- [scratch work in R](https://github.com/sastoudt/DSxD_samples/blob/main/resampling-datamation/resample_hack.R)
+- [sketches](https://github.com/sastoudt/DSxD_samples/blob/main/resampling-datamation/2021-03-01_sketch.jpeg)
 - stopping point: duplicate rows based on counts (expand into dataframe of same size as original sample where rows are actually duplicated based on how often they appear in resample)
